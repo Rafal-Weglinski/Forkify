@@ -467,6 +467,7 @@ const controlRecipes = async function () {
     _viewsRecipeViewJsDefault.default.renderSpinner();
     // 0)Update results view to mark selected search result
     _viewsResultsViewJsDefault.default.update(_modelJs.getSearchResultsPage());
+    _viewsBookmarksViewJsDefault.default.update(_modelJs.state.bookmarks);
     // 1) Loading recipe
     await _modelJs.loadRecipe(id);
     // 2) Rendering recipe
@@ -13743,10 +13744,11 @@ class View {
   constructor() {
     _defineProperty(this, "_data", void 0);
   }
-  render(data) {
+  render(data, render = true) {
     if (!data || Array.isArray(data) && data.length === 0) return this.renderError();
     this._data = data;
     const markup = this._generateMarkup();
+    if (!render) return markup;
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
@@ -13854,6 +13856,8 @@ _parcelHelpers.defineInteropFlag(exports);
 var _ViewJs = require('./View.js');
 var _ViewJsDefault = _parcelHelpers.interopDefault(_ViewJs);
 require('url:../../img/icons.svg');
+var _previewViewJs = require('./previewView.js');
+var _previewViewJsDefault = _parcelHelpers.interopDefault(_previewViewJs);
 function _defineProperty(obj, key, value) {
   if ((key in obj)) {
     Object.defineProperty(obj, key, {
@@ -13875,28 +13879,55 @@ class ResultsView extends _ViewJsDefault.default {
     _defineProperty(this, "_message", ``);
   }
   _generateMarkup() {
-    return this._data.map(this._generateMarkupPreview).join('');
+    return this._data.map(result => _previewViewJsDefault.default.render(result, false)).join('');
   }
-  _generateMarkupPreview(result) {
+}
+exports.default = new ResultsView();
+
+},{"./View.js":"48jhP","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","url:../../img/icons.svg":"3t5dV","./previewView.js":"3QsRt"}],"3QsRt":[function(require,module,exports) {
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+_parcelHelpers.defineInteropFlag(exports);
+var _ViewJs = require('./View.js');
+var _ViewJsDefault = _parcelHelpers.interopDefault(_ViewJs);
+require('url:../../img/icons.svg');
+function _defineProperty(obj, key, value) {
+  if ((key in obj)) {
+    Object.defineProperty(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+  return obj;
+}
+class PreviewView extends _ViewJsDefault.default {
+  constructor(...args) {
+    super(...args);
+    _defineProperty(this, "_parentElement", '');
+  }
+  _generateMarkup() {
     const id = window.location.hash.slice(1);
     return `
         <li class="preview">
-        <a class="preview__link ${result.id === id ? 'preview__link--active' : ''}" href="#${result.id}">
+        <a class="preview__link ${this._data.id === id ? 'preview__link--active' : ''}" href="#${this._data.id}">
         <figure class="preview__fig">
-                <img src="${result.image}" alt="${result.title}" />
+                <img src="${this._data.image}" alt="${this._data.title}" />
         </figure>
         <div class="preview__data">
-                <h4 class="preview__title">${result.title}</h4>
-                <p class="preview__publisher">${result.publisher}</p>
+                <h4 class="preview__title">${this._data.title}</h4>
+                <p class="preview__publisher">${this._data.publisher}</p>
         </div>
         </a>
         </li>
     `;
   }
 }
-exports.default = new ResultsView();
+exports.default = new PreviewView();
 
-},{"./View.js":"48jhP","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","url:../../img/icons.svg":"3t5dV"}],"5u5Fw":[function(require,module,exports) {
+},{"./View.js":"48jhP","url:../../img/icons.svg":"3t5dV","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y"}],"5u5Fw":[function(require,module,exports) {
 var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
 _parcelHelpers.defineInteropFlag(exports);
 var _ViewJs = require('./View.js');
@@ -13981,6 +14012,8 @@ _parcelHelpers.defineInteropFlag(exports);
 var _ViewJs = require('./View.js');
 var _ViewJsDefault = _parcelHelpers.interopDefault(_ViewJs);
 require('url:../../img/icons.svg');
+var _previewViewJs = require('./previewView.js');
+var _previewViewJsDefault = _parcelHelpers.interopDefault(_previewViewJs);
 function _defineProperty(obj, key, value) {
   if ((key in obj)) {
     Object.defineProperty(obj, key, {
@@ -13994,35 +14027,19 @@ function _defineProperty(obj, key, value) {
   }
   return obj;
 }
-class ResultsView extends _ViewJsDefault.default {
+class BookmarksView extends _ViewJsDefault.default {
   constructor(...args) {
     super(...args);
-    _defineProperty(this, "_parentElement", document.querySelector('.bookmark__list'));
+    _defineProperty(this, "_parentElement", document.querySelector('.bookmarks__list'));
     _defineProperty(this, "_errorMessage", `No bookmarks yet. Find a nice recipe and bookmark it ;)`);
     _defineProperty(this, "_message", ``);
   }
   _generateMarkup() {
-    return this._data.map(this._generateMarkupPreview).join('');
-  }
-  _generateMarkupPreview(result) {
-    const id = window.location.hash.slice(1);
-    return `
-        <li class="preview">
-        <a class="preview__link ${result.id === id ? 'preview__link--active' : ''}" href="#${result.id}">
-        <figure class="preview__fig">
-                <img src="${result.image}" alt="${result.title}" />
-        </figure>
-        <div class="preview__data">
-                <h4 class="preview__title">${result.title}</h4>
-                <p class="preview__publisher">${result.publisher}</p>
-        </div>
-        </a>
-        </li>
-    `;
+    return this._data.map(bookmark => _previewViewJsDefault.default.render(bookmark, false)).join('');
   }
 }
 exports.default = new BookmarksView();
 
-},{"./View.js":"48jhP","url:../../img/icons.svg":"3t5dV","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y"}]},["7BONy","3miIZ"], "3miIZ", "parcelRequirefade")
+},{"./View.js":"48jhP","url:../../img/icons.svg":"3t5dV","@parcel/transformer-js/lib/esmodule-helpers.js":"5gA8y","./previewView.js":"3QsRt"}]},["7BONy","3miIZ"], "3miIZ", "parcelRequirefade")
 
 //# sourceMappingURL=index.250b04c7.js.map
