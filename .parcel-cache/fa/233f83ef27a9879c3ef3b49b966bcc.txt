@@ -1,4 +1,4 @@
-20709
+20710
 62C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash132702550124963870 1
 72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\use\package.json132702550098191379 0
 76C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\hsl-regex\LICENSE.md130671323320000000 0
@@ -120,8 +120,25 @@
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\snakeCase.js121436361000000000 0
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\hsl-regex\.travis.yml130671323320000000 0
 95C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\cssnano\node_modules\chalk\package.json132702550129601480 0
-47C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist132705819070898427 1
+47C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist132706053425537069 1
 82C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\har-schema\lib\cookie.json131370181680000000 0
+71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stream-http\lib132702549972411030 1
+62C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\buffer132702550127267714 1
+86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2019\IsCallable.js121436361000000000 0
+108C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\README.md121436361000000000 0
+74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\onetime\index.d.ts121436361000000000 0
+137C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-timing-functions\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
+86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\fastq\.github\workflows\ci.yml121436361000000000 0
+96C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2019\StringGetOwnProperty.js121436361000000000 0
+94C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\internals\use-symbol-as-uid.js121436361000000000 0
+66C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\css-select132702550122370804 1
+75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\symbol-tree\LICENSE121436361000000000 0
+112C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\plugin-syntax-nullish-coalescing-operator\LICENSE121436361000000000 0
+72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\term-size\vendor132702549986070163 1
+83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\minimist\test\whitespace.js121436361000000000 0
+115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-timing-functions\node_modules\postcss\lib132702549993360857 1
+78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\css-declaration-sorter132702550103843599 1
+72C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\addRecipeView.js132705969652437841 0
 95C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\helpers\lib\helpers-generated.js121012626000000000 0
 71C:\Users\Rafau\Desktop\Repozytoria\Forkify\forkify-flowchart-part-3.png132652473800000000 0
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\reflect\construct.js121436361000000000 0
@@ -144,7 +161,7 @@
 71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uri-js\dist\es5132702549985212450 1
 140C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\universal.js121436361000000000 0
 116C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-unicode\node_modules\color-name\.npmignore130800019150000000 0
-53C:\Users\Rafau\Desktop\Repozytoria\Forkify\index.html132705572798897614 0
+53C:\Users\Rafau\Desktop\Repozytoria\Forkify\index.html132706038815228423 0
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\get-port\index.d.ts121436361000000000 0
 101C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\es.typed-array.uint8-array.js121436361000000000 0
 95C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\typed-array\entries.js121436361000000000 0
@@ -190,7 +207,7 @@
 110C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-rules\node_modules\postcss\lib\result.js121436361000000000 0
 105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\resolve\test\resolver\other_path\lib\other-lib.js121436361000000000 0
 106C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLBRElement-impl.js121436361000000000 0
-55C:\Users\Rafau\Desktop\Repozytoria\Forkify\package.json132703022098171391 0
+55C:\Users\Rafau\Desktop\Repozytoria\Forkify\package.json132706053228731512 0
 95C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\node-resolver-core\node_modules132702550089943424 1
 120C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-discard-duplicates\node_modules\postcss\lib\warn-once.js121436361000000000 0
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\hmac-drbg\README.md131322733170000000 0
@@ -202,6 +219,21 @@
 132C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-reduce-transforms\node_modules\postcss-value-parser\lib\stringify.js121436361000000000 0
 70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\.bin\which.cmd132702550149024805 0
 51C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\sass132652473800000000 1
+72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\statuses\LICENSE131529972880000000 0
+64C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\pn\v8.js131594838820000000 0
+97C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\stable\string\virtual\trim-end.js121436361000000000 0
+100C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-longhand\dist\lib\identical.js121436361000000000 0
+93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uri-js\dist\esnext\regexps-iri.js.map121436361000000000 0
+62C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\parcel132702550095059760 1
+105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-selector-parser\dist\selectors\comment.js121436361000000000 0
+82C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\static-extend\node_modules132702550074286006 1
+123C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\types\lib\builders\flow\createTypeAnnotationBasedOnTypeof.js121012626000000000 0
+79C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\prelude-ls\package.json132702550111562958 0
+126C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\icss-utils\node_modules\chalk\node_modules\supports-color\package.json132702550127317580 0
+105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\resolve\test\resolver\dot_slash_main\package.json121436361000000000 0
+87C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\helpers\setProto.js121436361000000000 0
+71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\define-property132702550125013742 1
+70C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\previewView.js132706023647750066 0
 128C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\regenerate-unicode-properties\Binary_Property\Changes_When_Casefolded.js121436361000000000 0
 86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\xml-name-validator\LICENSE.txt131302006000000000 0
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\invertObj.js121436361000000000 0
@@ -215,7 +247,7 @@
 71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\querystring-es3132702550111243815 1
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\snapdragon\node_modules\debug\node.js131419593830000000 0
 83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\to-regex-range\package.json132702550101514727 0
-69C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\recipeView.js132705816846715167 0
+69C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\recipeView.js132706026954107782 0
 76C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\decode-uri-component132702550131137369 1
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\domutils\test\utils.js131380691250000000 0
 69C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\object.values132702550096864926 1
@@ -311,7 +343,7 @@
 113C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-longhand\node_modules\color-name\.npmignore130800019150000000 0
 73C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\groupBy.js121436361000000000 0
 114C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-convert-values\node_modules\postcss\lib\comment.js121436361000000000 0
-59C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\config.js132705685621540276 0
+59C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\config.js132705999059151343 0
 106C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-colormin\node_modules\ansi-styles\index.js131644568170000000 0
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\util.promisify\auto.js121436361000000000 0
 105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.async-iterator.to-array.js121436361000000000 0
@@ -322,7 +354,7 @@
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-charset\node_modules\postcss\CHANGELOG.md121436361000000000 0
 67C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\w3c-hr-time132702550097223973 1
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\terser\node_modules\source-map\lib132702549988653257 1
-63C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\controller.js132705820537997738 0
+63C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\controller.js132706023172996507 0
 92C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uri-js\dist\esnext\schemes\ws.js.map121436361000000000 0
 103C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks\node_modules\color-name\package.json132702550105010476 0
 79C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\whatwg-url\lib\infra.js121436361000000000 0
@@ -333,7 +365,7 @@
 87C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\console-browserify\package.json132702550132892674 0
 73C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\cssom\LICENSE.txt121436361000000000 0
 99C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks\node_modules\postcss\lib\root.js121436361000000000 0
-59C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\helper.js132703894083680468 0
+59C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\helper.js132706006052698717 0
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\chokidar\lib\fsevents-handler.js121436361000000000 0
 66C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\is-windows132702550125671976 1
 89C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2019\MonthFromTime.js121436361000000000 0
@@ -345,13 +377,13 @@
 127C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-unique-selectors\node_modules\chalk\node_modules\supports-color132702550112540356 1
 68C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\run-parallel132702550110495816 1
 102C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\abortcontroller-polyfill\src\abortableFetch.js121436361000000000 0
-55C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views132705813252802801 1
+55C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views132705939141593750 1
 79C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\call-bind\test\index.js121436361000000000 0
 79C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\oauth-sign\package.json132702550121912030 0
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\html-tags\package.json132702550127666647 0
 76C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\hash.js\package.json132702550123148724 0
 119C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\id.js121436361000000000 0
-58C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\model.js132705810004410568 0
+58C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\model.js132706039964132243 0
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableCaptionElement.js121436361000000000 0
 70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash.memoize132702550124415343 1
 103C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks\node_modules\postcss\lib\tokenize.js121436361000000000 0
@@ -359,7 +391,7 @@
 69C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\is-color-stop132702550110495816 1
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\highlight.js\lib\languages\profile.js121436361000000000 0
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\unionWith.js121436361000000000 0
-72C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\bookmarksView.js132705819068742919 0
+72C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\bookmarksView.js132705845192881679 0
 72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\has.js121436361000000000 0
 89C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-calc\node_modules\postcss132702550108411387 1
 111C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
@@ -379,7 +411,7 @@
 73C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\paginationView.js132705682713479896 0
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\resolve\SECURITY.md121436361000000000 0
 122C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks\node_modules\chalk\node_modules\supports-color\index.js131792129460000000 0
-70C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\resultsView.js132705780347123482 0
+70C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\resultsView.js132705832358906034 0
 121C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-whitespace\node_modules\postcss\lib\tokenize.js121436361000000000 0
 120C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\helper-define-polyfill-provider\esm\index.browser.mjs.map119600064000000000 0
 102C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-params\node_modules\chalk\types132702550002671062 1
@@ -399,7 +431,7 @@
 117C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-positions\node_modules\postcss-value-parser132702550115786900 1
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\stable\promise132702956628200533 1
 91C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.set.union.js121436361000000000 0
-63C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\View.js132705803826597147 0
+63C:\Users\Rafau\Desktop\Repozytoria\Forkify\src\js\views\View.js132706044027597915 0
 64C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\arr-diff132702550135979517 1
 102C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-url\node_modules\chalk\types132702550000287435 1
 102C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\regenerate-unicode-properties\Script\Thaana.js121436361000000000 0
@@ -844,22 +876,6 @@
 87C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\regions\AI.js121436361000000000 0
 66C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks132702550099627550 1
 68C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\browserslist132702550123019076 1
-71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stream-http\lib132702549972411030 1
-62C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\buffer132702550127267714 1
-86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2019\IsCallable.js121436361000000000 0
-108C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\README.md121436361000000000 0
-74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\onetime\index.d.ts121436361000000000 0
-137C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-timing-functions\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
-86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\fastq\.github\workflows\ci.yml121436361000000000 0
-96C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2019\StringGetOwnProperty.js121436361000000000 0
-94C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\internals\use-symbol-as-uid.js121436361000000000 0
-66C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\css-select132702550122370804 1
-75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\symbol-tree\LICENSE121436361000000000 0
-112C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\plugin-syntax-nullish-coalescing-operator\LICENSE121436361000000000 0
-72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\term-size\vendor132702549986070163 1
-83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\minimist\test\whitespace.js121436361000000000 0
-115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-timing-functions\node_modules\postcss\lib132702549993360857 1
-78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\css-declaration-sorter132702550103843599 1
 105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\transformer-babel\src\BabelTransformer.js121436361000000000 0
 83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\source-map-js\source-map.js121436361000000000 0
 98C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\es.typed-array.iterator.js121436361000000000 0
@@ -1371,20 +1387,6 @@
 126C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\namespace.js121436361000000000 0
 110C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-modules-values\node_modules\chalk\package.json132702550116096079 0
 73C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\define-properties132702550121981844 1
-72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\statuses\LICENSE131529972880000000 0
-64C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\pn\v8.js131594838820000000 0
-97C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\stable\string\virtual\trim-end.js121436361000000000 0
-100C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-longhand\dist\lib\identical.js121436361000000000 0
-93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uri-js\dist\esnext\regexps-iri.js.map121436361000000000 0
-62C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\parcel132702550095059760 1
-105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-selector-parser\dist\selectors\comment.js121436361000000000 0
-82C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\static-extend\node_modules132702550074286006 1
-123C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\types\lib\builders\flow\createTypeAnnotationBasedOnTypeof.js121012626000000000 0
-79C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\prelude-ls\package.json132702550111562958 0
-126C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\icss-utils\node_modules\chalk\node_modules\supports-color\package.json132702550127317580 0
-105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\resolve\test\resolver\dot_slash_main\package.json121436361000000000 0
-87C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\helpers\setProto.js121436361000000000 0
-71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\define-property132702550125013742 1
 91C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-charset\README.md121436361000000000 0
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\es\typed-array\includes.js121436361000000000 0
 84C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2015\IsRegExp.js121436361000000000 0
@@ -3410,6 +3412,7 @@
 96C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\elliptic\lib\elliptic\eddsa\signature.js121436361000000000 0
 94C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\stable\object\lookup-getter.js121436361000000000 0
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\w3c-xmlserializer\lib\constants.js121436361000000000 0
+66C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\icons.c781f215.svg132706053329100532 0
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-discard-empty\node_modules\supports-color\readme.md121436361000000000 0
 91C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\http2.js121436361000000000 0
 86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\w3c-xmlserializer\lib\index.js121436361000000000 0
@@ -3933,7 +3936,6 @@
 71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\resolve\example132702550023134464 1
 108C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\unicode-canonical-property-names-ecmascript\index.js131728497090000000 0
 76C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\union-value\index.js121436361000000000 0
-84C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\commander132702550101494776 1
 72C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\asn1.js\lib\asn1132702549997988473 1
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\union-value\LICENSE121436361000000000 0
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\sshpk\lib\identity.js131837759770000000 0
@@ -4015,6 +4017,7 @@
 85C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\color-name132702550101554614 1
 129C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\map-generator.js121436361000000000 0
 71C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\ret\lib\util.js131132831030000000 0
+84C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\commander132702550101494776 1
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\regenerate-unicode-properties\Script_Extensions\Cherokee.js121436361000000000 0
 83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\has-flag132702550101504756 1
 131C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-rules\node_modules\chalk\node_modules\supports-color\index.js131792129460000000 0
@@ -4108,8 +4111,6 @@
 102C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\internals\get-async-iterator-method.js121436361000000000 0
 134C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\tag.js121436361000000000 0
 124C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\classes.js121436361000000000 0
-94C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\jpeg2000.js121436361000000000 0
-117C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\postcss.js121436361000000000 0
 126C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\node.js121436361000000000 0
 86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\console-browserify\.travis.yml121436361000000000 0
 125C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\comments.js121436361000000000 0
@@ -4921,9 +4922,9 @@
 87C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\svgo\plugins\convertPathData.js121436361000000000 0
 116C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-url\node_modules\supports-color\browser.js121436361000000000 0
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\highlight.js\styles\pojoaque.css121436361000000000 0
-92C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\svgo\node_modules\chalk\package.json132702550104521786 0
 74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\toNumber.js121436361000000000 0
 74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\sha.js\.travis.yml132702549995594865 0
+92C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\svgo\node_modules\chalk\package.json132702550104521786 0
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\svgo\plugins\convertShapeToPath.js121436361000000000 0
 91C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2016\QuoteJSONString.js121436361000000000 0
 84C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\svgo\plugins\minifyStyles.js121436361000000000 0
@@ -5853,6 +5854,7 @@
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\set-value\node_modules\extend-shallow132702550109279066 1
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\isstream\package.json132702550125033682 0
 101C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\set-value\node_modules\extend-shallow\LICENSE130698002010000000 0
+66C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.54e1d6b5.css132706053425467261 0
 106C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\set-value\node_modules\extend-shallow\package.json132702550108969899 0
 118C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-selectors\node_modules\postcss\lib\warn-once.js121436361000000000 0
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\transformer-babel\src\flow.js121436361000000000 0
@@ -8039,6 +8041,7 @@
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-svgo\dist\lib132702549975103830 1
 84C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-svgo\dist\lib\url.js121436361000000000 0
 113C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\domhandler\node_modules\domelementtype\lib\index.d.ts.map121436361000000000 0
+69C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.4ac90aa0.js.map132706053425527096 0
 80C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\os-browserify\browser.js131371328420000000 0
 105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\csso\node_modules\css-tree\lib\tokenizer\utils.js121436361000000000 0
 87C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\regions\LU.js121436361000000000 0
@@ -8164,9 +8167,6 @@
 110C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js121436361000000000 0
 119C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\processor.js121436361000000000 0
 116C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\result.js121436361000000000 0
-70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\atob\README.md121436361000000000 0
-103C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2018\GetPrototypeFromConstructor.js121436361000000000 0
-74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\array.js121436361000000000 0
 114C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\root.js121436361000000000 0
 101C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\css-transitions.js121436361000000000 0
 121C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-reduce-transforms\node_modules\postcss\lib\stringifier.js121436361000000000 0
@@ -8624,6 +8624,8 @@
 107C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\cssstyle\scripts\generate_implemented_properties.js121436361000000000 0
 76C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\object-keys\index.js121436361000000000 0
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\parse.js121436361000000000 0
+94C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\jpeg2000.js121436361000000000 0
+117C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\postcss.js121436361000000000 0
 119C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-selectors\node_modules\color-name\.eslintrc.json131174093250000000 0
 122C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\previous-map.js121436361000000000 0
 116C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\result.js121436361000000000 0
@@ -10275,6 +10277,7 @@
 112C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-params\node_modules\postcss\lib\parser.js121436361000000000 0
 127C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\preset-modules\src\plugins\transform-edge-function-name\index.js121436361000000000 0
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss\lib\rule.js121436361000000000 0
+65C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\logo.09084f39.png132706053329100532 0
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-params\node_modules\postcss\lib\postcss.d.ts121436361000000000 0
 115C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-params\node_modules\postcss\lib\processor.js121436361000000000 0
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\stable\typed-array\find.js121436361000000000 0
@@ -10516,7 +10519,6 @@
 122C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\lib\stringifier.js121436361000000000 0
 120C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\lib\warn-once.js121436361000000000 0
 118C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\docs\syntax.md121436361000000000 0
-74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\apply.js121436361000000000 0
 106C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-merge-rules\node_modules\has-flag\index.js131593941750000000 0
 129C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\postcss-minify-font-values\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\instance\flags.js121436361000000000 0
@@ -11605,7 +11607,6 @@
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\stable\array\flat-map.js121436361000000000 0
 118C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\.huskyrc121436361000000000 0
 70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\cond.js121436361000000000 0
-69C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.250b04c7.js.map132705819070888461 0
 82C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\path-is-inside\LICENSE.txt131180239530000000 0
 83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\path-is-inside\package.json132702550120844883 0
 106C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\fast-url-parser\node_modules\punycode\package.json132702550128693897 0
@@ -12566,6 +12567,10 @@
 83C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\es\object\freeze.js121436361000000000 0
 118C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\transformer-html\node_modules\domutils\lib\legacy.d.ts121436361000000000 0
 90C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\highlight.js\lib\languages\http.js121436361000000000 0
+74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\apply.js121436361000000000 0
+70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\atob\README.md121436361000000000 0
+103C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\es-abstract\2018\GetPrototypeFromConstructor.js121436361000000000 0
+74C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\array.js121436361000000000 0
 107C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@babel\helper-remap-async-to-generator\lib\index.js121012626000000000 0
 75C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\assign.js121436361000000000 0
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\lodash\fp\assignAll.js121436361000000000 0
@@ -14371,6 +14376,7 @@
 91C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\highlight.js\scss\kimbie.light.scss121436361000000000 0
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\utils\lib\prettyDiagnostic.js121436361000000000 0
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\math\radians.js121436361000000000 0
+70C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.54e1d6b5.css.map132706053425487200 0
 85C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\highlight.js\scss\lioshi.scss121436361000000000 0
 135C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\.idea\posthtml-parser.iml121436361000000000 0
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\highlight.js\scss\mono-blue.scss121436361000000000 0
@@ -17164,7 +17170,6 @@
 92C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.observable.js121436361000000000 0
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.promise.any.js121436361000000000 0
 93C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.promise.try.js121436361000000000 0
-98C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\inline-block.js121436361000000000 0
 105C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.reflect.define-metadata.js121436361000000000 0
 97C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\reflect\is-extensible.js121436361000000000 0
 102C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\modules\esnext.reflect.get-metadata.js121436361000000000 0
@@ -17463,6 +17468,7 @@
 92C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\math\rad-per-deg.js121436361000000000 0
 86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\math\scale.js121436361000000000 0
 94C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\math\to-string-tag.js121436361000000000 0
+68C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\favicon.f1877f87.png132706053329060638 0
 86C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\math\trunc.js121436361000000000 0
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\es\instance\trim-left.js121436361000000000 0
 88C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\core-js\features\map\find-key.js121436361000000000 0
@@ -18091,6 +18097,7 @@
 108C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js121436361000000000 0
 95C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\indexeddb.js121436361000000000 0
 96C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\indexeddb2.js121436361000000000 0
+98C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\inline-block.js121436361000000000 0
 110C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js121436361000000000 0
 97C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\input-color.js121436361000000000 0
 100C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\caniuse-lite\data\features\input-datetime.js121436361000000000 0
@@ -18557,7 +18564,6 @@
 68C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\asn1\lib\ber132702549996662014 1
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\asn1\lib\ber\errors.js131774611780000000 0
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\asn1\lib\ber\index.js131771034420000000 0
-65C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\logo.5d271741.png132705819070738864 0
 78C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\asn1\lib\ber\reader.js131771034420000000 0
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\asn1\lib\ber\types.js131627656510000000 0
 77C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\array-unique\index.js131144861160000000 0
@@ -20701,10 +20707,5 @@
 70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\.bin\uncss.cmd132702550149393826 0
 70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\.bin\uncss.ps1132702550149393826 0
 70C:\Users\Rafau\Desktop\Repozytoria\Forkify\node_modules\.bin\which.ps1132702550149024805 0
-68C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\favicon.80934ffe.png132705819070728887 0
-66C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\icons.c4b52749.svg132705819070738864 0
-66C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\icons.d4a14980.svg132705819070748831 0
-66C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.1206e35b.css132705819070818648 0
-70C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.1206e35b.css.map132705819070868514 0
-65C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.250b04c7.js132705819070868514 0
-58C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.html132705819070808668 0
+65C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.4ac90aa0.js132706053425467261 0
+58C:\Users\Rafau\Desktop\Repozytoria\Forkify\dist\index.html132706053425457287 0
